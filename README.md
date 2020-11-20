@@ -42,6 +42,7 @@ Pre-install maven, node and java.
 - Unit tests will run during mvn clean install
 
 `mvn clean install`
+
 `mvn spring-boot:run`
 
 4. Open another terminal window and change directory to where the repository was cloned. Then `cd frontend` and run these commands to start React App:

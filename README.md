@@ -48,6 +48,7 @@ Pre-install maven, node and java.
 4. Open another terminal window and change directory to where the repository was cloned. Then `cd frontend` and run these commands to start React App:
 
 `npm install`
+
 `npm start`
 
 5. Once both the Spring Boot Applicatin and the React App are running, open a web browser and navigate to:

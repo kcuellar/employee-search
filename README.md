@@ -12,7 +12,7 @@ Kellee Cuellar
 
 1. Clone this repository into your local machine using the terminal
 
-`git clone https://github.com/kcuellar/employee-search`
+`git clone https://github.com/kcuellar/employee-search.git`
 
 2. cd to the folder
 
